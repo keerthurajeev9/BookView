@@ -1,0 +1,299 @@
+#title{
+    
+        background-color: #f4f4f4;
+        /* abf0e9
+        d4f3ef
+        ee8572 */
+      
+}
+.container-fluid{
+    height: 180px;
+    width: 1200px;
+    margin-right:17px;
+    margin-top:auto;
+}
+.beg{
+    color: black;
+    text-align:left;
+    font-family: 'Piedra', cursive;
+    font-size:40px;
+    font-weight: bold;
+    padding-top: 70px;
+}
+.navi{
+   
+    font-family: 'Piedra', cursive;
+}
+.nav-link{
+    color:black;
+}
+.header{
+    font-size:20px;
+    margin-right:50px;
+    color:black;
+    margin-left: 20px;
+}
+.a{
+    margin-top: 60px;
+    margin-left: 100px;
+    font-family: 'Amatic SC', cursive;
+    font-size:47px;
+    
+}
+.button{
+    font-size:20px;
+    font-family: 'Piedra', cursive;
+    border-left-width: 1px;
+    padding-left: 50 50 50 50;
+    margin-left: 200px;
+    margin-top:10px;
+    margin-bottom: 30px;
+    
+}
+.icon{
+    color:#152a38;
+
+}
+.book-img{
+    border-radius: 100%;
+    width:450px;
+    height:450px;
+
+}
+.jumb{
+    background-color:#8ec6c5;
+}
+.cardd{
+    height: 360px;
+    border-radius: 50%;
+    border: 5px solid #d4f3ef
+    
+    
+}
+ .carddd{
+    border-radius: 50%;
+    height:300px;
+    width:300px;
+    border: 5px solid #d4f3ef
+    
+} 
+.main{
+border:1px solid #8ec6c5;
+background-color:#8ec6c5;
+text-align: center;
+}
+.c-title{
+    font-family: 'Amatic SC', cursive;
+    font-size:40px;
+    text-align: center;
+}
+.c-text{
+    font-family: 'Josefin Slab', serif;
+    font-size:20px;
+    color:white;
+    line-height:1.5;
+    text-align: center;
+}
+.carousel-control-prev-icon{
+    margin-right: 90px;
+    color:black;
+}
+.carousel-control-next-icon{
+    margin-left: 90px;
+}
+.con{
+    margin-top: 45px;
+}
+.fav{
+    margin-top: 15px;
+}
+.fav-head{
+    font-family: 'Amatic SC', cursive;
+    font-size:45px;
+    font-weight: bold;
+    
+    text-align: center;
+}
+.castle{
+    color:#6983aa;
+}
+.oll{
+    
+   margin-bottom: 0px;
+  
+   
+}
+
+.author{
+    height:300px;
+    width:200px;
+}
+.editor{
+    font-family: 'Lilita One', cursive;
+    text-align: left;
+    font-size: 40px;
+    line-height:1.5;
+
+}
+.buttons{
+    text-align: center;
+}
+.autho{
+    background-color: #f5cab3;
+    padding-top:50px;
+    padding-bottom:70px;
+}
+.autho-btn {
+    padding-right:20px;
+    margin-left:800px;
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    font-size:30px;
+    border-radius: 10%;
+    color:black;
+    border-width: 10%;
+
+}
+.area{
+    background-color: white;
+}
+
+.how-section1{
+    margin-top:-16%;
+    padding: 10%;
+}
+.how-section1 h4{
+    color: black;
+    font-weight: bold;
+    font-size: 42px;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+
+.how-section1 .row
+{
+    margin-top: 10%;
+    margin-bottom:-2%;
+}
+#bleh{
+    background-color: #ffaaa5;
+}
+.how-img 
+{
+    text-align: center;
+    
+}
+.how-img img{
+    width: 45%;
+    
+}
+.par{
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+    font-size:18px;
+    font-family: 'Lilita One', cursive;
+}
+.biggest{
+    font-size:40px;
+    text-align:center;
+    margin-top:5.3%;
+    font-family: 'Piedra', cursive;
+}
+.bulls{
+    margin-top:-1%;
+    color: #6c757d;
+   
+    padding-left:50%;
+
+}
+.bulls1{
+    margin-top:-7%;
+    color: #6c757d;
+   
+    padding-left:50%;
+
+}
+.abc{
+    width:130px;
+    height:130px;
+    border:8%;
+    padding:4%;
+    
+
+}
+.title1{
+    color:black;
+    text-align:left;
+    font-weight:bold;
+    font-family: 'Sacramento', cursive;
+    font-size:39px;
+    text-align: left;
+}
+.content1{
+    font-family: 'Alice', serif;
+    font-size:17px;
+    color: white;
+    font-weight:800px;
+    
+}
+#emojis{
+    background-color:#679b9b;
+    padding:7%;
+}
+.abcd{
+    
+   margin-left:45%;
+   margin-top:-20%;
+    width:100px;
+    height:100px;
+    transform: rotate(10deg);
+}
+.read{
+    font-size:50px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:-5%;
+    margin-bottom: 4%;
+    color:black;
+}
+#foot{
+    background-color: #fde2e2;
+    padding-left:20%;
+    color:black;
+    
+    padding-bottom:6%;
+
+}
+.octo{
+    
+    width:40px;
+    height:40px;
+    
+    margin-left: 170px;
+}
+.koala{
+    height:60px;
+    width:60px;
+    margin-left:40px;
+}
+    .end{
+        margin-left: 315px;
+        color:black;
+      text-align: center;
+        padding-top:1%;
+        font-size:55px;
+       
+        padding-bottom: 50px;
+    font-weight: bold;
+    font-family: 'Amatic SC', cursive;
+    }
+    .end1{
+        font-size:20px;
+        
+        margin-top: 40px;
+        color:#679b9b;
+        padding-left: 340px;
+        margin-bottom:-80px;
+        font-family: 'Sacramento', cursive;
+    }
